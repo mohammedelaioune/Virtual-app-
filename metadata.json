@@ -1,0 +1,6 @@
+{
+  "name": "Virtual Camera",
+  "description": "Virtual camera settings and preview concept.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
